@@ -18,6 +18,7 @@ class Solution
                 break;
             }
         }
+        
         if(v.size() == 0)
         {
             v.push_back(-1);
