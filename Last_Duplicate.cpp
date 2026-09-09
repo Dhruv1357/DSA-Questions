@@ -4,8 +4,7 @@ class Solution
 {
   public:
     vector<int> dupLastIndex(vector<int>& arr) 
-    {
-
+     {
         unordered_map<int,int>um;
         vector<int>v;
         
@@ -18,7 +17,7 @@ class Solution
                 break;
             }
         }
-        
+
         if(v.size() == 0)
         {
             v.push_back(-1);
