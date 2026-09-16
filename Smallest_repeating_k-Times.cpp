@@ -1,4 +1,5 @@
-// User function Template for C++
+#include <iostream>
+using namespace std;
 
 class Solution {
   public:
