@@ -1,11 +1,13 @@
 #include <iostream>
+#include <vector>
+#include <unordered_map>
 using namespace std;
 
 class Solution {
   public:
     int findDuplicate(const vector<int>& arr, int k) 
     {
-        // code here
+
         int count = 0;
         
         unordered_map<int,int>um;
