@@ -7,17 +7,13 @@ class Solution {
   public:
     int findDuplicate(const vector<int>& arr, int k) 
     {
-
         int count = 0;
         
         unordered_map<int,int>um;
-        for(int i=0;i<arr.size();i++)
-        {
-            um[arr[i]]++;
-        }
+        for(int i=0;i<arr.size();i++)um[arr[i]]++;
         
         int min = INT_MAX;
-        
+
         for(auto x : um)
         {
             if(x.second == k)
