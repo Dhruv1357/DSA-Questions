@@ -17,6 +17,7 @@ class Solution {
         }
         
         int min = INT_MAX;
+        
         for(auto x : um)
         {
             if(x.second == k)
