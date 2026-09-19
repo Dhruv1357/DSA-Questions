@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-class Solution {
+class Solution 
+{
   public:
     void reverseArray(vector<int> &arr) 
     {
