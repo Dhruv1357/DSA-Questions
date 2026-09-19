@@ -6,7 +6,6 @@ class Solution
     void reverseArray(vector<int> &arr) 
     {
         int temp;
-        
         for(int i=0;i<arr.size()/2;i++)
         {
             temp = arr[i];
