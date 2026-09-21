@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-class Solution {
+class Solution 
+{
   public:
     void rotate(vector<int> &arr) 
     {
@@ -10,7 +11,7 @@ class Solution {
         {
             arr[i] = arr[i-1];
         }
-        
+
         arr[0] = temp;
     }
 };
