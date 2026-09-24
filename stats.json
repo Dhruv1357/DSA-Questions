@@ -1,11 +1,11 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 3,
     "hard": 0,
     "basic": 0
@@ -19,12 +19,13 @@
     "LeetCode_Evaluate_Reverse_Polish_Notation": true,
     "GeeksForGeeks_Binary_Tree_Representation": true,
     "LeetCode_Binary_Tree_Preorder_Traversal": true,
-    "LeetCode_Binary_Tree_Inorder_Traversal": true
+    "LeetCode_Binary_Tree_Inorder_Traversal": true,
+    "LeetCode_Binary_Tree_Postorder_Traversal": true
   },
   "activityHistory": {
     "2026-09-08": 2,
     "2026-09-10": 4,
-    "2026-09-24": 3
+    "2026-09-24": 4
   },
   "todayProblems": [
     "Remove Outermost Parentheses",
@@ -35,6 +36,7 @@
     "Evaluate Reverse Polish Notation",
     "Binary Tree Representation",
     "Binary Tree Preorder Traversal",
-    "Binary Tree Inorder Traversal"
+    "Binary Tree Inorder Traversal",
+    "Binary Tree Postorder Traversal"
   ]
 }

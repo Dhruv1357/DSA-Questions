@@ -9,3 +9,4 @@
 | 7 | [Binary Tree Representation](https://www.geeksforgeeks.org/problems/binary-tree-representation/1) | GeeksForGeeks | Easy | 24 Sept 2026 | 12:33 pm |
 | 8 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | LeetCode | Easy | 24 Sept 2026 | 03:19 pm |
 | 9 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | LeetCode | Easy | 24 Sept 2026 | 03:24 pm |
+| 10 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | LeetCode | Easy | 24 Sept 2026 | 03:26 pm |
