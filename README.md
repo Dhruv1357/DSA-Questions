@@ -8,3 +8,4 @@
 | 6 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | LeetCode | Medium | 10 Sept 2026 | 02:19 pm |
 | 7 | [Binary Tree Representation](https://www.geeksforgeeks.org/problems/binary-tree-representation/1) | GeeksForGeeks | Easy | 24 Sept 2026 | 12:33 pm |
 | 8 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | LeetCode | Easy | 24 Sept 2026 | 03:19 pm |
+| 9 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | LeetCode | Easy | 24 Sept 2026 | 03:24 pm |
