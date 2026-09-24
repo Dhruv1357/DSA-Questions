@@ -1,11 +1,11 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-09-10",
-  "todayCount": 4,
+  "lastSyncDate": "2026-09-24",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 3,
     "hard": 0,
     "basic": 0
@@ -16,11 +16,13 @@
     "LeetCode_Crawler_Log_Folder": true,
     "LeetCode_Remove_All_Adjacent_Duplicates_in_String_II": true,
     "LeetCode_Removing_Stars_From_a_String": true,
-    "LeetCode_Evaluate_Reverse_Polish_Notation": true
+    "LeetCode_Evaluate_Reverse_Polish_Notation": true,
+    "GeeksForGeeks_Binary_Tree_Representation": true
   },
   "activityHistory": {
     "2026-09-08": 2,
-    "2026-09-10": 4
+    "2026-09-10": 4,
+    "2026-09-24": 1
   },
   "todayProblems": [
     "Remove Outermost Parentheses",
@@ -28,6 +30,7 @@
     "Crawler Log Folder",
     "Remove All Adjacent Duplicates in String II",
     "Removing Stars From a String",
-    "Evaluate Reverse Polish Notation"
+    "Evaluate Reverse Polish Notation",
+    "Binary Tree Representation"
   ]
 }
