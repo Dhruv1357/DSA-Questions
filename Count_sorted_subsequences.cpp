@@ -2,7 +2,6 @@ class Solution {
   public:
     int countTriplets(vector<int> &arr) 
     {
-        // code here
         int countij,countjk,count = 0;
         
         for(int j = 1;j<arr.size()-1;j++)
