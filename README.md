@@ -15,3 +15,4 @@
 | 13 | [Same Tree](https://leetcode.com/problems/same-tree/) | LeetCode | Easy | 25 Sept 2026 | 03:20 pm |
 | 14 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | LeetCode | Easy | 29 Sept 2026 | 10:41 am |
 | 15 | [Height of Binary Tree](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) | GeeksForGeeks | Easy | 29 Sept 2026 | 11:03 am |
+| 16 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | LeetCode | Easy | 29 Sept 2026 | 11:15 am |
