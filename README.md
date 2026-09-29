@@ -13,3 +13,4 @@
 | 11 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | LeetCode | Easy | 25 Sept 2026 | 02:39 pm |
 | 12 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | LeetCode | Easy | 25 Sept 2026 | 02:55 pm |
 | 13 | [Same Tree](https://leetcode.com/problems/same-tree/) | LeetCode | Easy | 25 Sept 2026 | 03:20 pm |
+| 14 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | LeetCode | Easy | 29 Sept 2026 | 10:41 am |
