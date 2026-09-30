@@ -6,7 +6,6 @@ class Solution {
     int countTriplets(vector<int> &arr) 
     {
         int countij,countjk,count = 0;
-        
         for(int j = 1;j<arr.size()-1;j++)
         {
 
@@ -16,7 +15,7 @@ class Solution {
                 if(arr[i] < arr[j])
                     countij++;
             }
-            
+
             for(int k=j+1;k<arr.size();k++)
             {
                 if(arr[j] < arr[k])
