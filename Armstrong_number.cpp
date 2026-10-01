@@ -12,10 +12,9 @@ bool armStrongNumber(int n)
         sum = sum + (x * x * x);
         num /= 10;
     }
-    
     if (sum == n)
         return true;
-        
+
     else
         return false;
 }
