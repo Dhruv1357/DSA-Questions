@@ -21,7 +21,6 @@ class Solution {
                 if(arr[j] < arr[k])
                     countjk++;
             }
-
             count += countij * countjk;
         }
 
