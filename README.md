@@ -17,3 +17,4 @@
 | 15 | [Height of Binary Tree](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) | GeeksForGeeks | Easy | 29 Sept 2026 | 11:03 am |
 | 16 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | LeetCode | Easy | 29 Sept 2026 | 11:15 am |
 | 17 | [Max and Min in Binary Tree](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | GeeksForGeeks | Easy | 29 Sept 2026 | 11:35 am |
+| 18 | [Sum of Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | GeeksForGeeks | Easy | 03 Oct 2026 | 05:40 pm |
