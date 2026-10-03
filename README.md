@@ -20,3 +20,4 @@
 | 18 | [Sum of Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | GeeksForGeeks | Easy | 03 Oct 2026 | 05:40 pm |
 | 19 | [Count Internal Nodes in Tree](https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1?page=1&category=Tree&sortBy=difficulty) | GeeksForGeeks | Basic | 03 Oct 2026 | 05:45 pm |
 | 20 | [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1?page=1&category=Tree&sortBy=difficulty) | GeeksForGeeks | Basic | 03 Oct 2026 | 05:56 pm |
+| 21 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | LeetCode | Easy | 03 Oct 2026 | 06:33 pm |
