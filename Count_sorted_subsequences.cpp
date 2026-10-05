@@ -23,7 +23,6 @@ class Solution {
             }
 
             count += countij * countjk;
-            
         }
 
         return count;
