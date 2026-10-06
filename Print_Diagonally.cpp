@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 class Solution {
   public:
     vector<int> diagView(vector<vector<int>> mat) 
