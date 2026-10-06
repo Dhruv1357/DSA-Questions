@@ -4,7 +4,6 @@ class Solution {
   public:
     vector<int> diagView(vector<vector<int>> mat) 
     {
-        // code here
         int n = mat.size();
         int f = 0,s = 0;
         int i,j;
@@ -17,7 +16,8 @@ class Solution {
             {
                 v.push_back(mat[i][j]);
                 i++,j--;
-            }while(i<n && j>=0);
+            }
+            while(i<n && j>=0);
             
             if(i == n)
                 f++;
