@@ -11,7 +11,7 @@ class Solution {
         
         do
         {
-                i = f,j = s;
+            i = f,j = s;
             do
             {
                 v.push_back(mat[i][j]);
