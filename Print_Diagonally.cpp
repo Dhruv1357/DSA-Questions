@@ -21,6 +21,7 @@ class Solution {
             
             if(i == n)
                 f++;
+                
             if(s<n-1)
                 s++;
         }while(f<n);
