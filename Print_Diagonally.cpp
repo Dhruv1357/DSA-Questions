@@ -26,7 +26,6 @@ class Solution {
                 s++;
                 
         }while(f<n);
-        
         return v;
     }
 };
