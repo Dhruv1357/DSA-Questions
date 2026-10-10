@@ -7,7 +7,7 @@ class Solution {
         int n = mat.size();
         int f = 0,s = 0;
         int i,j;
-        
+
         vector<int>v;
         
         do
@@ -27,6 +27,7 @@ class Solution {
                 s++;
                 
         }while(f<n);
+        
         return v;
     }
 };
