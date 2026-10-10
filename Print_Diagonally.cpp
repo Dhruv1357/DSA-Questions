@@ -13,6 +13,7 @@ class Solution {
         do
         {
             i = f,j = s;
+            
             do
             {
                 v.push_back(mat[i][j]);
@@ -27,7 +28,7 @@ class Solution {
                 s++;
                 
         }while(f<n);
-        
+
         return v;
     }
 };
