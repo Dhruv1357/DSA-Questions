@@ -14,7 +14,6 @@ bool armStrongNumber(int n)
     }
     if (sum == n)
         return true;
-
     else
         return false;
 }
