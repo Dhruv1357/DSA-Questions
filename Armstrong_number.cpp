@@ -20,9 +20,8 @@ bool armStrongNumber(int n)
 
 int main()
 {
-
     int n;
     cin >> n;
     cout << armStrongNumber(n);
-    
+
 }
