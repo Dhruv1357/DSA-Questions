@@ -43,7 +43,7 @@ int main()
         
         v.push_back(push);
     }
-    
+   
     int res = findEquilibrium(v);
 
     cout<<res;
