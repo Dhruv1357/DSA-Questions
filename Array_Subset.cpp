@@ -23,7 +23,7 @@ class Solution {
         {
             um2[b[i]]++;
         }
-       
+      
         for(int i=0;i<b.size();i++)
         {
             if(um1[b[i]] < um2[b[i]])
