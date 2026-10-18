@@ -19,7 +19,6 @@ class Solution {
         {
             um1[a[i]]++;
         }
-
         for(int i=0;i<b.size();i++)
         {
             um2[b[i]]++;
