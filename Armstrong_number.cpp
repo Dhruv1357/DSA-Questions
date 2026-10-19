@@ -17,7 +17,6 @@ bool armStrongNumber(int n)
     else
         return false;
 }
-
 int main()
 {
     int n;
