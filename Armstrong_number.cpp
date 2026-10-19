@@ -3,7 +3,6 @@ using namespace std;
 
 bool armStrongNumber(int n)
 {
-
     int sum = 0, num = n, x;
 
     for (int i = 0; i < 3; i++)
