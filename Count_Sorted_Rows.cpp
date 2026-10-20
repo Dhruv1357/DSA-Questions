@@ -4,7 +4,7 @@ class Solution {
   public:
     int sortedCount(int N, int M, vector<vector<int>> Mat) 
     {
-        // code here
+
         int incCount,decCount,count = 0;
         
         for(int i=0;i<N;i++)
