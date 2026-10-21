@@ -18,6 +18,7 @@ class Solution {
                 else if(Mat[i][j-1] > Mat[i][j])
                     decCount++;
             }
+            
             if((incCount == M-1) || (decCount == M-1))count++;
         }
         return count;
