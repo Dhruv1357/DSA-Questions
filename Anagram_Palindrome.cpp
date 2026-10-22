@@ -18,6 +18,7 @@ class Solution {
             if(ch.second%2 != 0)
                 countOdd++;
         }
+
         if(s.size()%2 == 0)
         {
             if(countOdd != 0)
