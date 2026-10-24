@@ -22,3 +22,4 @@
 | 20 | [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1?page=1&category=Tree&sortBy=difficulty) | GeeksForGeeks | Basic | 03 Oct 2026 | 05:56 pm |
 | 21 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | LeetCode | Easy | 03 Oct 2026 | 06:33 pm |
 | 22 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | LeetCode | Easy | 23 Oct 2026 | 04:56 pm |
+| 23 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | LeetCode | Easy | 24 Oct 2026 | 06:20 pm |
