@@ -1,12 +1,12 @@
 {
-  "totalSolved": 23,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-10-24",
+  "totalSolved": 24,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-10-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 2
   },
@@ -33,7 +33,8 @@
     "GeeksForGeeks_Count_Leaves_in_Binary_Tree": true,
     "LeetCode_Balanced_Binary_Tree": true,
     "LeetCode_Search_in_a_Binary_Search_Tree": true,
-    "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true
+    "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true,
+    "LeetCode_Insert_into_a_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-09-08": 2,
@@ -43,7 +44,8 @@
     "2026-09-29": 4,
     "2026-10-03": 4,
     "2026-10-23": 1,
-    "2026-10-24": 1
+    "2026-10-24": 1,
+    "2026-10-25": 1
   },
   "todayProblems": [
     "Remove Outermost Parentheses",
@@ -68,6 +70,7 @@
     "Count Leaves in Binary Tree",
     "Balanced Binary Tree",
     "Search in a Binary Search Tree",
-    "Convert Sorted Array to Binary Search Tree"
+    "Convert Sorted Array to Binary Search Tree",
+    "Insert into a Binary Search Tree"
   ]
 }
