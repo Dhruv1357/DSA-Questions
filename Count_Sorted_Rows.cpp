@@ -6,7 +6,7 @@ class Solution {
     int sortedCount(int N, int M, vector<vector<int>> Mat) 
     {
         int incCount,decCount,count = 0;
-        
+
         for(int i=0;i<N;i++)
         {
             incCount = 0,decCount = 0;
