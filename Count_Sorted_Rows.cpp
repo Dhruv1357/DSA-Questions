@@ -20,7 +20,7 @@ class Solution {
             }
             if((incCount == M-1) || (decCount == M-1))count++;
         }
- 
+  
         return count;
     }
 };
