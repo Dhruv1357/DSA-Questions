@@ -23,7 +23,7 @@ vector<int> lcmAndGcd(int a, int b) {
             large = b;
             small = a;
         }
-       l
+       
         for(int i = 1;;i++)
         {
             if((large * i)%small == 0)
