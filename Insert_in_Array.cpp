@@ -41,7 +41,6 @@ int main()
         cin >> inp;
         v.push_back(inp);
     }
-
     cin >> index >> val;
     insertAtIndex(v,index,val);
 }
