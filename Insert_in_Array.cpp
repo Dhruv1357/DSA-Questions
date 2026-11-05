@@ -31,10 +31,9 @@ void insertAtIndex(vector<int> &arr, int index, int val)
 int main()
 {
     vector<int> v;
-
     int size;
     cin >> size;
-    
+
     int inp,index,val;
 
     for (int i = 0; i < size; i++)
