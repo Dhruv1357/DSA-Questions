@@ -29,6 +29,7 @@ void insertAtIndex(vector<int> &arr, int index, int val)
         }
         cout << "]";
 }
+
 int main()
 {
     vector<int> v;
