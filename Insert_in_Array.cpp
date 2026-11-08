@@ -45,5 +45,5 @@ int main()
     }
     cin >> index >> val;
     insertAtIndex(v,index,val);
-    
+
 }
