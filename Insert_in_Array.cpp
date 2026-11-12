@@ -24,6 +24,7 @@ void insertAtIndex(vector<int> &arr, int index, int val)
         arr[arr.size() - 1] = val;
 
         cout << "[";
+        
         for(int i=0;i<arr.size();i++)
         {
             cout << arr[i];
