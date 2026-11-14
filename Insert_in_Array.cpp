@@ -29,10 +29,10 @@ void insertAtIndex(vector<int> &arr, int index, int val)
         {
             cout << arr[i];
         }
-        
-        cout << "]";
-}
 
+        cout << "]";
+
+}
 int main()
 {
     vector<int> v;
