@@ -4,7 +4,6 @@ class Solution {
   public:
     vector<vector<int>> transpose(vector<vector<int>>& mat) 
     {
-
         int temp;
         
         for(int i =1;i<mat.size();i++)
