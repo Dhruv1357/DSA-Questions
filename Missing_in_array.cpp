@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 class Solution {
   public:
     int missingNum(vector<int>& arr) 
