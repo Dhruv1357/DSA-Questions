@@ -15,7 +15,6 @@ class Solution {
         {
             arr[i+1] = arr[i+1] ^ arr[i];
         }
-        
         return arr[arr.size()-1];
     }
 };
