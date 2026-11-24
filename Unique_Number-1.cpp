@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-class Solution {
+class Solution 
+{
   public:
     int findUnique(vector<int> &arr) 
     {
