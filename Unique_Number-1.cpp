@@ -8,7 +8,7 @@ class Solution {
         {
             arr[0] = arr[0] ^ arr[i];
         }
-        
+
         return arr[0];
     }
 };
